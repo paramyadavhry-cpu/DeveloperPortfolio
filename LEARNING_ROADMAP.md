@@ -42,6 +42,9 @@ I rated myself honestly from 1 to 4 (1 = No Knowledge, 2 = Beginner, 3 = Interme
 
 ### Semester 1 — Foundations
 **Core Skills:** Python basics, Linux terminal, Git/GitHub, basic statistics.
+**University Subjects:** Programming in C, Mathematics-I, Physics, English
+
+
 
 **Projects:** CSE103 Lab Portfolio, GitHub profile README.
 
