@@ -128,3 +128,14 @@ I plan to approach a CSE faculty member for guidance in Python programming, Data
 
 **Result:** My personal six-semester learning roadmap is documented and ready to be saved on GitHub.
 
+
+## Semester Milestone Quick Summary
+
+| Semester | Theme | Key Deliverable | Certification Target |
+|---|---|---|---|
+| Sem 1 | Foundations | CSE103 lab portfolio + GitHub profile | HackerRank Python Basic |
+| Sem 2 | Core CS | DSA implementation repo (5 structures) | NPTEL Python (if offered) |
+| Sem 3 | Intermediate | Student Record Management System | Google IT Support (audit) |
+| Sem 4 | Intermediate+ | Student Performance Prediction System | AWS Cloud Practitioner |
+| Sem 5 | Specialisation (Track B) | 2 AI/ML projects + internship | TensorFlow Developer Certificate |
+| Sem 6 | Industry Ready | Capstone project + placement | Portfolio complete |
