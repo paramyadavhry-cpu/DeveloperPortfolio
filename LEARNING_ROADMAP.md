@@ -118,7 +118,7 @@ Build a temperature monitoring system that detects high temperature and generate
 ## Mentor Plan
 I plan to approach a CSE faculty member for guidance in Python programming, Data Science and AI/ML.
 
-**Faculty Mentor:** Dr. Sharma (CSE Department)
+**Faculty Mentor:** Ankita Gupta
 
 ## Key Milestones Timeline
 - End of Semester 1: GitHub profile live, Python basics completed and lab portfolio uploaded.
