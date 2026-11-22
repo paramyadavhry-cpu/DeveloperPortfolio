@@ -53,6 +53,8 @@ I rated myself honestly from 1 to 4 (1 = No Knowledge, 2 = Beginner, 3 = Interme
 **Platforms:** HackerRank, freeCodeCamp.
 
 ### Semester 2 — Core Computer Science
+**University Subjects (expected):** Data Structures, Object Oriented Programming (Python/C++)
+
 **Core Skills:** Arrays, linked lists, stacks, queues, trees, Python OOP and C++ basics.
 
 **Projects:** DSA Implementation Repository with at least 5 data structures.
@@ -62,6 +64,8 @@ I rated myself honestly from 1 to 4 (1 = No Knowledge, 2 = Beginner, 3 = Interme
 **Platforms:** LeetCode, GeeksForGeeks.
 
 ### Semester 3 — Intermediate
+**University Subjects (expected):** Database Management Systems, Computer Networks, Operating Systems
+
 **Core Skills:** MySQL, SQL joins, HTML, CSS, JavaScript, NumPy and Pandas basics.
 
 **Theory:** DBMS, Computer Networks and Operating Systems.
@@ -73,6 +77,8 @@ I rated myself honestly from 1 to 4 (1 = No Knowledge, 2 = Beginner, 3 = Interme
 **Platforms:** HackerRank SQL, Kaggle.
 
 ### Semester 4 — Intermediate Advanced
+**University Subjects (expected):** Design and Analysis of Algorithms, Software Engineering, Machine Learning (intro)
+
 **Core Skills:** Python, Flask, REST APIs, Scikit-learn and Machine Learning basics.
 
 **Theory:** Design and Analysis of Algorithms, Software Engineering.
@@ -84,6 +90,8 @@ I rated myself honestly from 1 to 4 (1 = No Knowledge, 2 = Beginner, 3 = Interme
 **Platforms:** Kaggle, GitHub, LeetCode.
 
 ### Semester 5 — Specialisation (Track B: AI/ML)
+**University Subjects (expected):** AI/ML specialisation subjects (Machine Learning, Data Science tools)
+
 **Core Skills:** NumPy, Pandas, Scikit-learn, TensorFlow and Jupyter Notebook.
 
 **Projects:**
@@ -97,6 +105,8 @@ I rated myself honestly from 1 to 4 (1 = No Knowledge, 2 = Beginner, 3 = Interme
 **Platforms:** Kaggle, GitHub, LinkedIn.
 
 ### Semester 6 — Industry Ready
+**University Subjects (expected):** Capstone project, internship and placement preparation
+
 **Core Skills:** Advanced Machine Learning, Deep Learning, model deployment and interview preparation.
 
 **Capstone:** Major AI/ML team project with 3–4 members.
