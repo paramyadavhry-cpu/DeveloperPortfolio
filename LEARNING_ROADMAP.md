@@ -42,7 +42,7 @@ I rated myself honestly from 1 to 4 (1 = No Knowledge, 2 = Beginner, 3 = Interme
 
 ### Semester 1 — Foundations
 **Core Skills:** Python basics, Linux terminal, Git/GitHub, basic statistics.
-**University Subjects:** Programming in C, Mathematics-I, Physics, English
+**University Subjects:** Web Development (Neeraj Rawat), CS Fundamentals (Ankita Gupta), Programming for Problem Solving using Python (Swati Jain), Probability, Statistics and Linear Algebra (Pooja Bansal), Basics of Electronics and Digital Logic Design (Ritesh Kumar), Maker Lab: Tinkering With Technology (Ankush Mehta)
 
 
 
@@ -106,9 +106,7 @@ I rated myself honestly from 1 to 4 (1 = No Knowledge, 2 = Beginner, 3 = Interme
 **Career Goal:** Secure a placement offer or off-campus opportunity before graduation.
 
 ## Personal Project Idea
-**Smart Temperature Monitoring and Alert System**
-
-Build a temperature monitoring system that detects high temperature and generates an alert. Later, Python can be used to analyse recorded temperature readings.
+**Spam SMS Classifier (Python + scikit-learn):** simple version in Semester 2-3, web demo in Semester 5.
 
 ## Monthly Targets — Current Semester
 1. November 2026: Practise 10 Python programs and revise Python basics.
@@ -118,7 +116,7 @@ Build a temperature monitoring system that detects high temperature and generate
 ## Mentor Plan
 I plan to approach a CSE faculty member for guidance in Python programming, Data Science and AI/ML.
 
-**Faculty Mentor:** Ankita Gupta
+**Faculty Mentor:** Prof. Swati Jain (Programming for Problem Solving using Python)
 
 ## Key Milestones Timeline
 - End of Semester 1: GitHub profile live, Python basics completed and lab portfolio uploaded.
