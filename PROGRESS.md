@@ -4,8 +4,9 @@
 ## HackerRank
 - Profile URL : https://www.hackerrank.com/profile/h2601730091
 - Problems solved : 3 (Say Hello, Python If-Else, Arithmetic Operators)
-- Skill test taken : Python (Basic)
-- Certificate : Pending
+- Skill test taken : Python (Basic), attempted on 22 Nov 2026, not passed
+- Certificate : Not earned yet, retake after 22 Dec 2026
+
 ## LeetCode
 - Profile URL : https://leetcode.com/u/paramyadavhry-cpu
 - Easy attempted : 2 (Two Sum, Palindrome Number)
@@ -26,4 +27,5 @@ Week of 22 November 2026:
 - Month 1 : Complete 10 HackerRank problems, attempt Python Basic test
 - Month 2 : Solve 10 LeetCode Easy problems, complete HTML LAB on freeCodeCamp
 - Month 3 : Earn HackerRank Python Basic certificate, reach 25 LeetCode Easy problems
+
 
