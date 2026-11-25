@@ -1,5 +1,5 @@
 # K.R. Mangalam University | B.Tech CSE (AI-ML)
-# QUESTION 4.5 — SIX-SEMESTER LEARNING ROADMAP
+# Six-Semester Learning Roadmap
 
 **Name:** Paramjeet Yadav  
 
@@ -9,7 +9,7 @@
 **University:** K.R. Mangalam University  
 **Batch:** 2026–2030  
 **Study Time:** 2–3 hours per week  
-**GitHub:** developer-portfolio
+**GitHub:** https://github.com/paramyadavhry-cpu/DeveloperPortfolio
 
 ## Aim
 To create a personalised six-semester learning roadmap covering technical skills, projects, certifications and career goals, and save it on GitHub using Git.
@@ -41,12 +41,17 @@ I rated myself honestly from 1 to 4 (1 = No Knowledge, 2 = Beginner, 3 = Interme
 ## Step 2: My Six-Semester Roadmap
 
 ### Semester 1 — Foundations
-**Core Skills:** Python basics, Linux terminal, Git/GitHub, basic statistics.
+**Core Skills:** Python basics, Linux terminal, Bash scripting, Git/GitHub, REST API basics, basic statistics.
+
+**Tools Used:** WSL (Ubuntu), Git, GitHub, nano, curl, jq.
+
+**Capstone Milestone:** DeveloperPortfolio repository (Linux, shell scripts, API, portfolio).
+
 **University Subjects:** Web Development (Neeraj Rawat), CS Fundamentals (Ankita Gupta), Programming for Problem Solving using Python (Swati Jain), Probability, Statistics and Linear Algebra (Pooja Bansal), Basics of Electronics and Digital Logic Design (Ritesh Kumar), Maker Lab: Tinkering With Technology (Ankush Mehta)
 
 
 
-**Projects:** CSE103 Lab Portfolio, GitHub profile README.
+**Projects:** CSE103 Lab work, DeveloperPortfolio capstone, GitHub profile README.
 
 **Certification:** HackerRank Python Basic.
 
@@ -55,18 +60,22 @@ I rated myself honestly from 1 to 4 (1 = No Knowledge, 2 = Beginner, 3 = Interme
 ### Semester 2 — Core Computer Science
 **University Subjects (expected):** Data Structures, Object Oriented Programming (Python/C++)
 
-**Core Skills:** Arrays, linked lists, stacks, queues, trees, Python OOP and C++ basics.
+**Core Skills:**
+- Data Structures: arrays, linked lists, stacks, queues, trees
+- Databases: tables, keys and basic SQL queries
+- Web basics: HTML, CSS and basic JavaScript
+- Python OOP and C++ basics
 
 **Projects:** DSA Implementation Repository with at least 5 data structures.
 
-**Certification:** NPTEL Introduction to Programming in Python (if offered).
+**Certification (to be earned before the end of Semester 2):** HackerRank SQL (Basic).
 
 **Platforms:** LeetCode, GeeksForGeeks.
 
 ### Semester 3 — Intermediate
 **University Subjects (expected):** Database Management Systems, Computer Networks, Operating Systems
 
-**Core Skills:** MySQL, SQL joins, HTML, CSS, JavaScript, NumPy and Pandas basics.
+**Core Skills:** Advanced MySQL, SQL joins, intermediate JavaScript, NumPy and Pandas basics.
 
 **Theory:** DBMS, Computer Networks and Operating Systems.
 
@@ -143,9 +152,9 @@ I plan to approach a CSE faculty member for guidance in Python programming, Data
 
 | Semester | Theme | Key Deliverable | Certification Target |
 |---|---|---|---|
-| Sem 1 | Foundations | CSE103 lab portfolio + GitHub profile | HackerRank Python Basic |
-| Sem 2 | Core CS | DSA implementation repo (5 structures) | NPTEL Python (if offered) |
+| Sem 1 | Foundations | DeveloperPortfolio capstone + GitHub profile | HackerRank Python Basic |
+| Sem 2 | Core CS | DSA implementation repo (5 structures) | HackerRank SQL (Basic) |
 | Sem 3 | Intermediate | Student Record Management System | Google IT Support (audit) |
-| Sem 4 | Intermediate+ | Student Performance Prediction System | AWS Cloud Practitioner |
-| Sem 5 | Specialisation (Track B) | 2 AI/ML projects + internship | TensorFlow Developer Certificate |
+| Sem 4 | Intermediate+ | Student Performance Prediction System | Machine Learning Specialization |
+| Sem 5 | Specialisation (Track B) | 2 AI/ML projects + internship | Relevant ML certification |
 | Sem 6 | Industry Ready | Capstone project + placement | Portfolio complete |
