@@ -2,7 +2,42 @@
 > B.Tech CSE Student | K.R. Mangalam University, Gurugram | Batch 2026-30
 
 ---
+## Project Overview
+This repository is my Beginner Developer Ecosystem Portfolio for the CSE103 CS Fundamentals capstone. It brings together the work from all four labs: Linux commands, shell scripts, API interaction with Python, Git/GitHub, Markdown documentation, resume, LinkedIn profile and a learning roadmap.
 
+## Repository Structure
+```
+DeveloperPortfolio/
+├── Linux/          Q1 (CO1) - System profile and Linux command outputs
+├── ShellScripts/   Q2 (CO2) - Bash automation scripts
+├── API/            Q3 (CO3) - API response JSON and Python script
+├── Portfolio/      Q4 (CO4) - Resume PDF, roadmap, LinkedIn screenshot
+├── Screenshots/    Supporting screenshots for all sections
+└── README.md       Project overview
+```
+
+## Contents
+- **Linux/**: outputs of the commands I ran to profile my system
+- **ShellScripts/**: scripts I wrote to automate tasks
+- **API/**: JSON response and the Python script that fetches it
+- **Portfolio/**: [Resume](Portfolio/my_resume_v1.pdf), [Learning Roadmap](Portfolio/LEARNING_ROADMAP.md), LinkedIn screenshot
+
+## Profiles
+- GitHub: https://github.com/paramyadavhry-cpu
+- LinkedIn: https://www.linkedin.com/in/paramjeet-yadav-7a6b3a430
+
+## How to Run
+Replace the file names below with your actual ones.
+```bash
+cd ShellScripts
+chmod +x script_name.sh
+./script_name.sh
+
+cd ../API
+python3 script_name.py
+```
+
+---
 ## Repository Index
 
 | Repository | Description | Tech Stack | Status |
@@ -25,5 +60,4 @@ See [LEARNING_ROADMAP.md](./LEARNING_ROADMAP.md) for my full 6-semester plan.
 ## Progress Tracker
 See [PROGRESS.md](./PROGRESS.md) for coding platform progress.
 
-## Learning Roadmap
-See [LEARNING_ROADMAP.md](LEARNING_ROADMAP.md) for my full 6-semester plan.
+
