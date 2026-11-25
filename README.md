@@ -72,6 +72,8 @@ DeveloperPortfolio/
 ### LinkedIn profile
 ![LinkedIn profile](Screenshots/linkedin_profile.png)
 
+![LinkedIn project](Screenshots/linkedin_project.png)
+
 ## Commit History
 
 All commits follow the Conventional Commits style (`feat:`, `docs:`, `chore:`). To verify, run this from the repository root:
