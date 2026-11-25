@@ -1,0 +1,21 @@
+========== SYSTEM INFORMATION REPORT ==========
+Name    : Paramjeet Yadav
+Roll No : 2601730091
+Date    : Wed Nov 25 19:39:43 UTC 2026
+===============================================
+
+--- CPU ---
+Model name:                              13th Gen Intel(R) Core(TM) i5-1335U
+Core(s) per socket:                      6
+
+--- Memory ---
+Total: 7.6Gi
+Used : 514Mi
+
+--- Top 3 Processes by CPU Usage ---
+PID USER %CPU COMMAND
+   3603 Paramje+  0.0 head
+   3602 Paramje+  0.0 sort
+   3601 Paramje+  0.0 ps
+
+Report generated successfully.
