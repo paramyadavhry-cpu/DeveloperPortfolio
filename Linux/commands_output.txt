@@ -1,0 +1,52 @@
+== ls -la ~
+total 128
+drwxr-x--- 10 Paramjeet Paramjeet  4096 Nov 25 18:24 .
+drwxr-xr-x  3 root      root       4096 Oct 26 12:43 ..
+-rw-------  1 Paramjeet Paramjeet 62599 Nov 25 18:24 .bash_history
+-rw-r--r--  1 Paramjeet Paramjeet   220 Oct 26 12:43 .bash_logout
+-rw-r--r--  1 Paramjeet Paramjeet  3771 Oct 26 12:43 .bashrc
+drwxr-x---  4 Paramjeet Paramjeet  4096 Oct 26 12:44 .cache
+drwxr-x---  3 Paramjeet Paramjeet  4096 Oct 26 12:44 .config
+-rw-------  1 Paramjeet Paramjeet    78 Nov 25 17:39 .git-credentials
+-rw-r--r--  1 Paramjeet Paramjeet   258 Nov  8 05:18 .gitconfig
+drwxr-xr-x  2 Paramjeet Paramjeet  4096 Oct 26 12:44 .landscape
+-rw-------  1 Paramjeet Paramjeet    20 Nov 22 19:44 .lesshst
+drwx------  3 Paramjeet Paramjeet  4096 Nov  5 12:38 .local
+-rw-r--r--  1 Paramjeet Paramjeet     0 Nov 25 11:14 .motd_shown
+-rw-r--r--  1 Paramjeet Paramjeet   807 Oct 26 12:43 .profile
+drwx------  2 Paramjeet Paramjeet  4096 Nov  7 12:48 .ssh
+drwxr-xr-x  8 Paramjeet Paramjeet  4096 Nov 25 19:18 DeveloperPortfolio
+drwxr-xr-x  7 Paramjeet Paramjeet  4096 Nov 23 11:21 cse103-lab-LAB3
+drwxr-xr-x  4 Paramjeet Paramjeet  4096 Nov 23 06:01 cse103_lab
+== ps aux | head -10
+USER         PID %CPU %MEM    VSZ   RSS TTY      STAT START   TIME COMMAND
+root           1  0.0  0.0   3820  2760 hvc0     Sl+  11:43   0:00 /init
+root           5  0.0  0.0   3868  2464 hvc0     Sl+  11:43   0:03 plan9 --control-socket 6 --log-level 4 --server-fd 7 --pipe-fd 9 --log-truncate
+root           8  0.0  0.0   3828  1496 ?        Ss   11:43   0:00 /init
+root           9  0.0  0.0   3896  1564 ?        S    11:43   0:00 /init
+Paramje+      10  0.0  0.0   6372  5604 pts/0    Ss+  11:43   0:00 -bash
+root        1623  0.0  0.0   3828  1496 ?        Ss   14:51   0:00 /init
+root        1624  0.0  0.0   3896  1564 ?        S    14:51   0:00 /init
+Paramje+    1625  0.0  0.0   6268  5552 pts/1    Ss+  14:51   0:00 -bash
+root        3225  0.0  0.0   3828  1496 ?        Ss   18:24   0:00 /init
+== df -h
+Filesystem      Size  Used Avail Use% Mounted on
+none            3.9G     0  3.9G   0% /usr/lib/modules/6.18.58.1-microsoft-standard-WSL2
+/dev/sda         97M   97M     0 100% /usr/src/linux-headers-6.18.58.1-microsoft-standard-WSL2
+none            3.9G  4.0K  3.9G   1% /mnt/wsl
+drivers         456G   92G  365G  21% /usr/lib/wsl/drivers
+/dev/sdd       1007G  1.6G  955G   1% /
+none            3.9G  116K  3.9G   1% /mnt/wslg
+none            3.9G     0  3.9G   0% /usr/lib/wsl/lib
+rootfs          3.8G  3.4M  3.8G   1% /init
+none            3.9G  4.0K  3.9G   1% /run
+none            3.9G     0  3.9G   0% /run/lock
+none            3.9G     0  3.9G   0% /run/shm
+none            3.9G     0  3.9G   0% /run/user
+none            3.9G   80K  3.9G   1% /mnt/wslg/versions.txt
+none            3.9G   80K  3.9G   1% /mnt/wslg/doc
+C:\             456G   92G  365G  21% /mnt/c
+== free -h
+               total        used        free      shared  buff/cache   available
+Mem:           7.6Gi       513Mi       7.0Gi       3.7Mi       230Mi       7.1Gi
+Swap:          2.0Gi          0B       2.0Gi
