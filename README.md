@@ -16,7 +16,6 @@ DeveloperPortfolio/
 └── README.md       Project overview
 ```
 
-## Contents
 ## Student Details
 
 - **Name:** Paramjeet Yadav
@@ -32,26 +31,25 @@ DeveloperPortfolio/
 ## Contents
 
 ### 1. Linux (`Linux/`)
-- [system_profile.txt](Linux/system_profile.txt): my machine's hardware and OS details
-- [ls_output.txt](Linux/ls_output.txt): output of the `ls` command
-- [processes.txt](Linux/processes.txt): list of running processes
-- [commands.sh](Linux/commands.sh): script that runs the commands
+- [system_profile.md](Linux/system_profile.md): hardware and OS table, binary conversion
+- [commands_output.txt](Linux/commands_output.txt): output of ls, ps, df and free
 - [system_documentation.md](Linux/system_documentation.md): what each command does
 
 ### 2. Shell Scripts (`ShellScripts/`)
-- [hello.sh](ShellScripts/hello.sh): basic greeting script
-- [system_info.sh](ShellScripts/system_info.sh): prints user, host, disk and memory details
-- [script6_sysreport.sh](ShellScripts/script6_sysreport.sh): system report script
-- [backup.sh](ShellScripts/backup.sh): folder backup script
+- [sysinfo.sh](ShellScripts/sysinfo.sh): system information report
+- [sysinfo_output.txt](ShellScripts/sysinfo_output.txt): saved output of the report
+- [backup.sh](ShellScripts/backup.sh): timestamped folder backup with a log
 
 ### 3. API (`API/`)
-- [api_fetch.py](API/api_fetch.py): Python script that fetches data from an API
-- [fetch_users.py](API/fetch_users.py): Python script that fetches a users list
-- [response.json](API/response.json), [output.json](API/output.json), [users.json](API/users.json): saved API responses
+- [github_profile.json](API/github_profile.json): my GitHub profile response
+- [sample_posts.json](API/sample_posts.json): posts from JSONPlaceholder
+- [api_summary.md](API/api_summary.md): REST API, status codes and jq filter
+- [api_fetch.py](API/api_fetch.py): Python script that fetches my profile
+- [fetch_users.py](API/fetch_users.py): Python script that fetches users
 
 ### 4. Portfolio (`Portfolio/`)
-- [my_resume_v1.pdf](Portfolio/my_resume_v1.pdf): my technical resume
-- [LEARNING_ROADMAP.md](Portfolio/LEARNING_ROADMAP.md): my 6-semester plan
+- [resume.pdf](Portfolio/resume.pdf): technical resume
+- [learning_roadmap.md](Portfolio/learning_roadmap.md): semester-wise plan
 - [linkedin_profile.png](Portfolio/linkedin_profile.png): LinkedIn profile screenshot
 
 ## Evidence Screenshots
@@ -68,6 +66,12 @@ DeveloperPortfolio/
 ### GitHub profile
 ![GitHub profile](Screenshots/github_profile.png)
 
+### Backup script
+![Backup demo](Screenshots/backup_demo.png)
+
+### LinkedIn profile
+![LinkedIn profile](Screenshots/linkedin_profile.png)
+
 ## Commit History
 
 All commits follow the Conventional Commits style (`feat:`, `docs:`, `chore:`). To verify, run this from the repository root:
@@ -83,21 +87,16 @@ git log --oneline
 ## How to Run
 
 ```bash
-cd ShellScripts
-chmod +x hello.sh system_info.sh
-./hello.sh
-./system_info.sh
-
-cd ../API
-python3 api_fetch.py
+./ShellScripts/sysinfo.sh
+./ShellScripts/backup.sh ~/DeveloperPortfolio
 ```
 ---
 ## Repository Index
 
-| Repository | Description | Tech Stack | Status |
-|------------|-------------|------------|--------|
-| [cse103-lab-LAB3](https://github.com/paramyadavhry-cpu/cse103-lab-LAB3) | CSE103 lab — Git, APIs, Shell scripting | Git, Python, Bash | Active |
-| [developer-portfolio](https://github.com/paramyadavhry-cpu/developer-portfolio) | This portfolio index | Markdown | Active |
+| Repository | Description | Tech Stack |
+|------------|-------------|------------|
+| [DeveloperPortfolio](https://github.com/paramyadavhry-cpu/DeveloperPortfolio) | Capstone portfolio | Bash, Git, HTML |
+| [cse103-lab-LAB3](https://github.com/paramyadavhry-cpu/cse103-lab-LAB3) | CSE103 lab work | Git, Python, Bash |
 
 ---
 
@@ -109,7 +108,7 @@ python3 api_fetch.py
 ---
 
 ## Learning Roadmap
-See [LEARNING_ROADMAP.md](./Portfolio/LEARNING_ROADMAP.md) for my full 6-semester plan.
+See [learning_roadmap.md](./Portfolio/learning_roadmap.md) for my full 6-semester plan.
 
 ## Progress Tracker
 See [PROGRESS.md](./PROGRESS.md) for coding platform progress.
