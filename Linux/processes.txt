@@ -1,0 +1,11 @@
+USER         PID %CPU %MEM    VSZ   RSS TTY      STAT START   TIME COMMAND
+root           1  0.0  0.0   3820  2760 hvc0     Sl+  11:43   0:00 /init
+root           5  0.0  0.0   3868  2464 hvc0     Sl+  11:43   0:02 plan9 --control-socket 6 --log-level 4 --server-fd 7 --pipe-fd 9 --log-truncate
+root           8  0.0  0.0   3828  1496 ?        Ss   11:43   0:00 /init
+root           9  0.0  0.0   3896  1564 ?        S    11:43   0:00 /init
+Paramje+      10  0.0  0.0   6372  5596 pts/0    Ss   11:43   0:00 -bash
+root        1623  0.0  0.0   3828  1496 ?        Ss   14:51   0:00 /init
+root        1624  0.0  0.0   3896  1564 ?        S    14:51   0:00 /init
+Paramje+    1625  0.0  0.0   6268  5552 pts/1    Ss+  14:51   0:00 -bash
+Paramje+    1859  0.0  0.0   7160  4344 pts/0    R+   14:56   0:00 ps aux
+Paramje+    1860  0.0  0.0  16304  7856 pts/0    S+   14:56   0:00 head -20
