@@ -20,7 +20,7 @@ DeveloperPortfolio/
 ## Student Details
 
 - **Name:** Paramjeet Yadav
-- **Roll Number:** <2601730091>
+- **Roll Number:** 2601730091
 - **University:** K.R. Mangalam University, Gurugram
 - **Batch:** 2026-30 (B.Tech CSE)
 
