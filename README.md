@@ -27,16 +27,16 @@ DeveloperPortfolio/
 - LinkedIn: https://www.linkedin.com/in/paramjeet-yadav-7a6b3a430
 
 ## How to Run
-Replace the file names below with your actual ones.
+
 ```bash
 cd ShellScripts
-chmod +x script_name.sh
-./script_name.sh
+chmod +x hello.sh system_info.sh
+./hello.sh
+./system_info.sh
 
 cd ../API
-python3 script_name.py
+python3 api_fetch.py
 ```
-
 ---
 ## Repository Index
 
@@ -55,8 +55,7 @@ python3 script_name.py
 ---
 
 ## Learning Roadmap
-See [LEARNING_ROADMAP.md](./LEARNING_ROADMAP.md) for my full 6-semester plan.
-
+See [LEARNING_ROADMAP.md](./Portfolio/LEARNING_ROADMAP.md) for my full 6-semester plan.
 ## Progress Tracker
 See [PROGRESS.md](./PROGRESS.md) for coding platform progress.
 
